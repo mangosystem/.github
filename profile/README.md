@@ -1,3 +1,3 @@
 ## Mango System inc.
 
-![screenshot](products.png)
+![screenshot](/profile/products.png)
